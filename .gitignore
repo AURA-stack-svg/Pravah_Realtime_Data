@@ -1,0 +1,9 @@
+*.env
+*.flashrank_cache/
+# pycache
+*__pycache__/
+*.db
+*.db.wal
+*.csv
+.DS_Store
+*my_db/
